@@ -1,0 +1,17 @@
+.nav{
+    font-size: medium;
+    padding: 0 10px 0 10px;
+    color:black;
+}
+.navbar-brand mb-0 h1{
+    font-size: 30px;
+}
+.nav-link, .nav-link.active, .nav-item{
+    color:black;
+    font-weight: bold;
+    font-size: medium;
+    padding: 0 10px 0 10px;
+}
+.navbar-header nav{
+    color:black;
+}
